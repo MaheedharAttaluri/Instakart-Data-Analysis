@@ -1,4 +1,6 @@
-[**E-Commerce Data Modelling and Analytics**]
+**E-Commerce Data Modelling and Analytics**
+
+![Instakart-Data-Analysis](instakart.png)
 
 **Tech Stack:** PostgreSQL, Python
 
@@ -10,4 +12,4 @@
 
 •	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
 
-![Instakart-Data-Analysis](instakart.png)
+
